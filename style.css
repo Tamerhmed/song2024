@@ -1,4 +1,6 @@
 .container{
     background-color: brown;
     font-size:large;
+    width:100%;
+    max-width:1140px;
 }
